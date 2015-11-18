@@ -13,5 +13,5 @@ Setup an assets structure:
 
 ```bash
 npm install -g generator-gladeye-assets
-yo gladeye-assets relative/path/to/assets
+yo gladeye-assets
 ```
