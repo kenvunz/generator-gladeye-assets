@@ -1,5 +1,5 @@
 {
-  "name": "generator-assets",
+  "name": "generator-gladeye-assets",
   "version": "0.1.0",
   "description": "",
   "main": "generators/app/index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator", "gladeye"
   ],
   "author": "Ken Vu <ken@gladeye.co.nz>",
   "license": "MIT",
