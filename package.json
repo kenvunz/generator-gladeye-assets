@@ -1,6 +1,6 @@
 {
   "name": "generator-gladeye-assets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "repository": {
     "type": "git",
@@ -14,7 +14,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "yeoman-generator", "gladeye"
+    "yeoman-generator",
+    "gladeye"
   ],
   "author": "Ken Vu <ken@gladeye.co.nz>",
   "license": "MIT",
