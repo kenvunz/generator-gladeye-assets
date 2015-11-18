@@ -28,7 +28,7 @@ module.exports = generators.Base.extend({
         });
     },
 
-    run: function() {
+    generate: function() {
         this._start();
 
         this._prompt(function(answer) {
